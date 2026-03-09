@@ -61,23 +61,3 @@ Cookie-Edit stores data locally in `data/cookies.json`. To protect your session 
 
 ---
 
-*Simple. Modular. Efficient.*
-
-```
-
----
-
-### 3. `.gitignore` (Essential for GitHub)
-Create this file in the root folder so you don't accidentally share your private login cookies with the world.
-
-```text
-# Python
-__pycache__/
-*.pyc
-
-# Local Data
-data/cookies.json
-
-# Environment
-.venv/
-env/
