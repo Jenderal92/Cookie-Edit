@@ -1,19 +1,5 @@
 # 🍪 Cookie-Edit
 
-<p align="center">
-  <pre>
-   _____                _    _        _           _      
-  / ____|              | |  (_)      | |         | |     
- | |     ___   ___ | | ___  ___| |     __ _| |__   
- | |    / _ \ / _ \| |/ / |/ _ \ |    / _` | '_ \  
- | |___| (_) | (_) |   <| |  __/ |___| (_| | |_) | 
-  \_____\___/ \___/|_|\_\_|\___|______\__,_|_.__/  
-                                                   
-  </pre>
-  <p align="center">
-    <b>Professional Cookie Management Lab for Developers</b>
-  </p>
-</p>
 
 ---
 
@@ -77,5 +63,6 @@ python main.py
 Cookie-Edit stores data locally in `data/cookies.json`. To protect your session data, the `data/` directory is included in `.gitignore` to prevent it from being uploaded to public repositories.
 
 ---
+
 
 
